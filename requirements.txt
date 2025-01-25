@@ -1,0 +1,4 @@
+cvzone==1.6.1
+mediapipe==0.10.20
+numpy==2.2.2
+pygame==2.6.1
