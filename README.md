@@ -21,7 +21,7 @@ The **Virtual Quiz Game** is an interactive platform designed to educate childre
 To run the Virtual Quiz Game, ensure you have:
 
 - Python 3.7 or higher
-- Pygane (for GUI)
+- Pygame (for GUI)
 
 ### Installation
 
